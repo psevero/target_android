@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AULA2</string>
+    <!-- comentário -->
+    <string name="test">um test</string>
+</resources>
