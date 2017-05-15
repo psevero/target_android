@@ -12,6 +12,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import java.net.HttpURLConnection;
 import java.util.List;
 import java.util.Objects;
 
@@ -106,7 +107,9 @@ public class CustomAdapter extends ArrayAdapter<Item> {
         else {
             viewHolder = (ViewHolder) convertView.getTag();
         }
-        
+
+
+
         //viewHolder.name.setText();
         return convertView;
     }
