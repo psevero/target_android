@@ -1,6 +1,5 @@
 package com.curso.target.aula7;
 
-import android.media.Image;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
