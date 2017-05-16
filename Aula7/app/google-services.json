@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "483721491198",
+    "firebase_url": "https://targetcurso.firebaseio.com",
+    "project_id": "targetcurso",
+    "storage_bucket": "targetcurso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483721491198:android:9a4ba0191917104e",
+        "android_client_info": {
+          "package_name": "com.curso.target"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483721491198-m92pdv7u8dh6hcvcfev3hucf4ukbrlig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVCuppI-jkqcysbiqVelncd_PwHz9dIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483721491198:android:d5b35c50e45047ca",
+        "android_client_info": {
+          "package_name": "com.curso.target.aula7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483721491198-m92pdv7u8dh6hcvcfev3hucf4ukbrlig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVCuppI-jkqcysbiqVelncd_PwHz9dIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
